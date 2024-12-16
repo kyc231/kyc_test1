@@ -2,7 +2,7 @@ import sounddevice as sd
 import queue
 import vosk
 import json
-
+# for git test`
 # Vosk 모델 다운로드 및 경로 설정 필요
 # vosk-model-small-ko-0.22 모델을 사용하는 예제
 # 모델 다운로드: https://alphacephei.com/vosk/models
