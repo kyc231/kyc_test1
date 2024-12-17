@@ -1,6 +1,6 @@
 import pyautogui
 import time
-
+#W2
 def automate_actions():
     while True:
         # W 키 누르기
@@ -27,5 +27,4 @@ def automate_actions():
         time.sleep(0.3)
 
 # 함수 실행
-automate_actions()
 automate_actions()
